@@ -3,12 +3,6 @@
 <h1 align="center">Hi 👋, I'm Amirmohammad Hassanabadi</h1>
 <h3 align="center">A passionate fullstack developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmohammadhassanabadi&label=Profile%20views&color=0e75b6&style=flat" alt="amirmohammadhassanabadi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirmohammadhassanabadi" alt="amirmohammadhassanabadi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/amir56922433" target="blank"><img src="https://img.shields.io/twitter/follow/amir56922433?logo=twitter&style=for-the-badge" alt="amir56922433" /></a> </p>
-
 - 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amirmohammadhassanabadi](https://github.com/amirmohammadhassanabadi)
