@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [medium](medium)
 
-- 📫 How to reach me **hasanabadi.am@gmail.com**
+- 📫 How to reach me **hasanabadi.am1380@gmail.com**
 
 - ⚡ Fun fact **I think i'm funny**
 
