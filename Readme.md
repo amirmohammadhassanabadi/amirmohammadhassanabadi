@@ -2,7 +2,7 @@
 
 **DevOps Engineer | Software Engineer**
 
-I'm a DevOps Engineer with a background in network administration and software development. I enjoy designing, building, and operating reliable systems, from backend applications to deployment pipelines and infrastructure automation.
+I'm a DevOps Engineer with a background in network administration and software development. I enjoy designing systems end-to-end—from application architecture and backend services to deployment pipelines, infrastructure automation, and production operations. My goal is to build reliable platforms that make software easier to develop, deploy, and maintain.
 
 My experience includes Linux administration, containerized applications, CI/CD pipelines, monitoring, and backend development. I'm particularly interested in automation, Kubernetes, observability, and building platforms that improve how software is delivered.
 
