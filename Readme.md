@@ -9,7 +9,7 @@ My experience includes Linux administration, containerized applications, CI/CD p
 ## Core Technologies
 
 ### Infrastructure
-- Linux (Ubuntu)
+- Linux
 - Docker & Docker Compose
 - Kubernetes
 - Nginx
